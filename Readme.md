@@ -10,6 +10,7 @@ Especially, this tool can be used to relay credentials from JAVA http request to
 * [impack](https://github.com/SecureAuthCorp/impacket)
 
 ## Ussage
+pip install impacket==0.9.18
 
 `python ultrarelay.py -ip 192.168.1.100`
 
